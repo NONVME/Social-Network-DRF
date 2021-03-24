@@ -4,9 +4,6 @@ version = "0.1.0"
 description = "This is a test assignment from the StarNavi company"
 authors = ["Chashin Efim <69835249+NONVME@users.noreply.github.com>"]
 license = "MIT"
-packages = [
-  { include = "social_network" },
-]
 
 [tool.poetry.dependencies]
 python = "^3.9"
